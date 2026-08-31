@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /routa-pankki-site/fi/haku/
+Disallow: /routa-pankki-site/en/search/
+
+Sitemap: https://oxzo.github.io/routa-pankki-site/sitemap-index.xml
